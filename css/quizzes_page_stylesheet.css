@@ -114,3 +114,13 @@ a:hover{
     background-color: black;
       color: white;
   }
+
+  .qa{
+      background-color:white;
+      font-family: futura;
+      text-align: center;
+      font-size: 150%;
+      padding: 10px;
+      align-items: center;
+      margin-left: 90px;
+  }
