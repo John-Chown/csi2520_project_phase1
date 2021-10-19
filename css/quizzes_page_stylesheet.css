@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(/Users/John%20Chown/csi2520_project_phase1/images/web_background.png);
+    background-image: url(/images/web_background.png);
     margin-left: 100px;
     margin-right: 100px;
     max-width: initial;
@@ -35,7 +35,7 @@ a{
     color:black;
     text-decoration: none;
     padding-top: 10px;
-    
+    font-family: futura;
     
 }
 
