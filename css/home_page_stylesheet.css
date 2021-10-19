@@ -8,6 +8,12 @@ body{
     background-image: url(/Users/John%20Chown/csi2520_project_phase1/images/web_background.png);
     margin-left: 100px;
     margin-right: 100px;
+    max-width: initial;
+    overflow-x: hidden;
+}
+
+img{
+    box-shadow: 10px 10px 10px;
 }
 
 header{
@@ -20,7 +26,8 @@ nav{
     background-color: white;
     font-family: futura;
     font-size: 200%;
-   
+    box-shadow: 10px 10px 10px;
+    padding: 10px;
 }
 
 a{
@@ -28,4 +35,81 @@ a{
     text-decoration: none;
     padding-top: 10px;
     
+    
 }
+.htp{
+    float:left;
+    width: 45%;
+}
+
+.qqa{
+    float: right;
+    width: 45%;
+}
+
+h2.head_htp{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+    font-family: futura;
+    font-size: 300%;
+    box-shadow: black 10px 10px 10px;
+    padding: 10px;
+    
+}
+
+p.desc{
+    background-color: white;
+    font-family: futura;
+    text-align: center;
+    
+    position: relative;
+    font-size: 200%;
+    box-shadow: 10px 10px 10px;
+
+    padding: 10px;
+    
+    
+}
+
+
+h2.head_qqa{
+    background-color: black;
+    color: white;
+    font-family: futura;
+    font-size: 300%;
+    text-align: center;
+    padding: 10px;
+    box-shadow: black 10px 10px 10px;
+    
+}
+
+
+.quiz_links{
+ 
+ background-color: white;
+ text-align: center;
+ font-family: futura;
+ font-size: 250%;
+ box-shadow: 10px 10px 10px;
+ padding: 10px;
+ 
+
+}
+
+
+
+
+footer{
+    clear:both;
+    position:relative;
+    
+    height: 70px;
+    font-size: 100%;
+    background-color: white;
+    font-family: futura;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+
