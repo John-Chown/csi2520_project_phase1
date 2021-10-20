@@ -12,8 +12,7 @@ body{
     max-width: initial;
     overflow-x: hidden;
     overflow-y: scroll;
-    background: url(/images//web_background_2.png) bottom no-repeat, url(/images/web_background_movie2.jpg) center no-repeat, url(/images/webbackground_movie3.jpg) top no-repeat;
-    backdrop-filter: blur(4px);
+    background-image: repeating-radial-gradient(rgb(174, 174, 255), rgb(0, 0, 41));
     
 }
 
@@ -62,8 +61,8 @@ a{
     text-decoration: none;
     padding-top: 10px;
     font-family: futura;
-    background-color: white;
-    font-size: 175%;
+    
+    
 }
 
 a:hover{
@@ -71,4 +70,17 @@ a:hover{
       color: white;
   }
 
-  
+  footer{
+    
+    
+    box-shadow: 10px 10px 10px;
+    padding-top: 50px;
+}
+
+.foot_p{
+    background-color: white;
+    font-family: futura;
+    text-align: center;
+    
+}
+
