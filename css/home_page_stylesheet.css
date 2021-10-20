@@ -39,12 +39,12 @@ a{
 }
 .htp{
     float:left;
-    width: 45%;
+    width: 65%;
 }
 
 .qqa{
     float: right;
-    width: 45%;
+    width: 30%;
 }
 
 h2.head_htp{
@@ -69,7 +69,7 @@ p.desc{
     box-shadow: 10px 10px 10px;
 
     padding: 10px;
-    
+    height:423px;
     
 }
 
@@ -91,9 +91,9 @@ h2.head_qqa{
  background-color: white;
  text-align: center;
  font-family: futura;
- font-size: 250%;
+ font-size: 150%;
  box-shadow: 10px 10px 10px;
- padding: 10px;
+ padding-top: 20px;
  height: 423px;
 
 }
