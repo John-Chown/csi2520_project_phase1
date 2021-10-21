@@ -80,3 +80,7 @@ a:hover{
     font-size: 100%;
     background-color: unset;
 }
+
+.img_link:hover{
+    color: black;
+  }

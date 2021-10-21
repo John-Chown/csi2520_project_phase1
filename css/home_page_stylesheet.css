@@ -121,3 +121,7 @@ a:hover{
   background-color: black;
     color: white;
 }
+
+.img_link:hover{
+    color: black;
+  }

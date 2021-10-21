@@ -124,3 +124,7 @@ a:hover{
       align-items: center;
       margin-left: 90px;
   }
+
+  .img_link:hover{
+    color: black;
+  }
