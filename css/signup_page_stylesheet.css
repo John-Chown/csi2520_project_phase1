@@ -84,3 +84,7 @@ a:hover{
 .img_link:hover{
     color: black;
   }
+
+  .img_link{
+      background-color:unset;
+  }
